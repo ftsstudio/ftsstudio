@@ -7,3 +7,5 @@ Développeurs et joueurs passionnés dont l’objectif principal est de fournir 
 
 ### 💻 Nos skill :
 [![Nos skill](https://skillicons.dev/icons?i=js,html,css,sass,ts,php,react,svelte,vue,nextjs,discordjs,htmx,md,mysql,pnpm,nodejs,yarn,lua,git,github,linux,windows,figma,blender,photoshop)](https://ftsplug.fr)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ftsstudio&show_icons=true&theme=dark&locale=en&layout=compact" alt="ftsstudio" /></p>
