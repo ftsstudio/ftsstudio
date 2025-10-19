@@ -6,7 +6,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/eivordoa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fts_studio) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Eivor_Off) [![Discord](https://img.shields.io/discord/811668677577146409?logo=discord&logoColor=white)](https://youtube.com/@Eivor_Off) [![Website](https://img.shields.io/badge/Website-%23FF0000.svg?logo=Website&logoColor=white)](https://fts-studio.com)
 
 ### 💻 Nos skill :
-[![Nos skill](https://skillicons.dev/icons?i=js,ts,html,css,sass,php,cpp,lua,react,threejs,webpack,express,jquery,electron,tailwind,styledcomponents,svelte,vue,kotlin,gradle,python,vercel,netlify,nextjs,nestjs,discordjs,md,htmx,firebase,mysql,supabase,cloudflare,pnpm,nodejs,yarn,docker,git,github,linux,windows,figma,blender,photoshop,canva,gimp)](fts-studio.com)
+[![Nos skill](https://skillicons.dev/icons?i=js,ts,html,css,sass,php,cpp,cs,java,lua,react,threejs,webpack,express,jquery,electron,tailwind,styledcomponents,svelte,vue,kotlin,gradle,python,vercel,netlify,nextjs,nestjs,discordjs,md,htmx,firebase,mysql,supabase,cloudflare,pnpm,nodejs,yarn,docker,git,github,linux,windows,figma,blender,photoshop,canva,gimp)](fts-studio.com)
 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-token&logoColor=white)
